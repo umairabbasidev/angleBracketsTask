@@ -7,7 +7,9 @@ function App() {
     <>
       <div className="bg-[#21313C] pt-8">
         <div className="text-center">
-          <h1 className="text-white text-4xl">Angle Brackets Mobile App </h1>
+          <h1 className="text-white text-4xl px-2">
+            Angle Brackets Mobile App{" "}
+          </h1>
           <h1 className="text-3xl  text-[#ede4e4a9] font-bold pt-2  ">
             {" "}
             development experts

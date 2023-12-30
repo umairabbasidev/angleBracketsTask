@@ -29,8 +29,8 @@ function Cards({
           <img src={iconTwo} alt="" />
           <img src={iconThree} alt="" />
 
-          <img src={iconSeven} alt="" className="" />
-          <img src={iconFour} alt="" className="-ml-8" />
+          {/* <img src={iconSeven} alt="" className="-ml-2 " /> */}
+          <img src={iconFour} alt="" className="-ml-7 " />
           <img src={iconSix} alt="" />
           <img src={iconFive} alt="" />
         </div>
